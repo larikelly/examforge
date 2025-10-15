@@ -1,7 +1,7 @@
 # 🧠 ExamForge
 
 **ExamForge** é um sistema inteligente para **criação, execução e análise de exames automatizados**.  
-Seu objetivo é agilizar e aprimorar o processo de avaliação, permitindo que professores, instrutores e coordenadores gerem provas de forma inteligente, com apoio de IA e relatórios de desempenho detalhados.
+Seu objetivo é agilizar e aprimorar o processo de avaliação, permitindo que usuários como professores, instrutores e coordenadores gerem provas de forma inteligente, com apoio de IA.
 
 ---
 ## 📋 Sumário
@@ -20,7 +20,7 @@ Seu objetivo é agilizar e aprimorar o processo de avaliação, permitindo que p
 
 O **ExamForge** surgiu com a proposta de **automatizar a geração de exames personalizados**, com suporte a **IA** para criação de questões, montagem de provas e análise de desempenho.
 
-Ele é indicado para instituições de ensino, programas de capacitação e ambientes corporativos que realizam avaliações frequentes e precisam de **eficiência, precisão e análise de resultados**.
+Ele é indicado para todos os usuários ou instituições que realizam avaliações frequentes e precisam de **eficiência, precisão e análise de resultados**.
 
 ---
 
@@ -30,17 +30,15 @@ Ele é indicado para instituições de ensino, programas de capacitação e ambi
 - Criação de provas por meio de uma interface conversacional.  
 - Sugestão automática de questões com base em temas e conteúdos informados.  
 - Geração de alternativas e explicações das respostas.  
-- Controle de nível de dificuldade e peso das questões.
 
 ### 🧩 Banco de Questões
 - Cadastro e categorização de questões por disciplina, tema e tipo.  
 - Filtros de busca e reutilização em novos exames.  
 
 ### 🧠 Geração de Exames
-- Criação automática de exames por critérios definidos.  
+- Criação automática de exames por critérios definidos no chat.  
 - Montagem manual ou automatizada.  
 - Tipos de questão: objetiva, discursiva ou mista.
-
 
 ---
 
@@ -66,10 +64,9 @@ examforge/
 | **Frontend** | React, TypeScript, TailwindCSS |
 | **Backend** | Python (FastAPI) |
 | **Banco de Dados** | PostgreSQL / MongoDB |
-| **IA / NLP** | OpenAI API, HuggingFace Transformers |
-| **Autenticação** | JWT / OAuth 2.0 |
+| **IA / NLP** | OpenAI API |
 | **Testes** | Jest / Pytest |
-| **Infraestrutura** | Docker, GitHub Actions, Render / Railway |
+| **Infraestrutura** | Docker, GitHub Actions, Render |
 
 ---
 
