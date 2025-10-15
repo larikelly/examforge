@@ -1,1 +1,101 @@
-# examforge
+# 🧠 ExamForge
+
+**ExamForge** é um sistema inteligente para **criação, execução e análise de exames automatizados**.  
+Seu objetivo é agilizar e aprimorar o processo de avaliação, permitindo que professores, instrutores e coordenadores gerem provas de forma inteligente, com apoio de IA e relatórios de desempenho detalhados.
+
+---
+## 📋 Sumário
+
+- [Visão Geral](#-visão-geral)
+- [Principais Funcionalidades](#-principais-funcionalidades)
+- [Arquitetura do Sistema](#-arquitetura-do-sistema)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Instalação e Execução](#-instalação-e-execução)
+- [Contribuição](#-contribuição)
+- [Equipe e Contatos](#-equipe-e-contatos)
+- [Licença](#-licença)
+
+---
+
+## 🌟 Visão Geral
+
+O **ExamForge** surgiu com a proposta de **automatizar a geração de exames personalizados**, com suporte a **IA** para criação de questões, montagem de provas e análise de desempenho.
+
+Ele é indicado para instituições de ensino, programas de capacitação e ambientes corporativos que realizam avaliações frequentes e precisam de **eficiência, precisão e análise de resultados**.
+
+---
+
+## ⚙️ Principais Funcionalidades
+
+### 💬 Chat de Questões
+- Criação de provas por meio de uma interface conversacional.  
+- Sugestão automática de questões com base em temas e conteúdos informados.  
+- Geração de alternativas e explicações das respostas.  
+- Controle de nível de dificuldade e peso das questões.
+
+### 🧩 Banco de Questões
+- Cadastro e categorização de questões por disciplina, tema e tipo.  
+- Filtros de busca e reutilização em novos exames.  
+
+### 🧠 Geração de Exames
+- Criação automática de exames por critérios definidos.  
+- Montagem manual ou automatizada.  
+- Tipos de questão: objetiva, discursiva ou mista.
+
+
+---
+
+(Ainda a definir)
+
+## 🏗️ Arquitetura do Sistema
+
+```bash
+examforge/
+├── frontend/        # Interface do usuário (React / Next.js)
+├── backend/         # API (Node.js / Python FastAPI)
+├── database/        # Scripts e modelos de dados
+├── docs/            # Documentação e requisitos
+├── tests/           # Casos e automações de teste
+└── README.md
+```
+---
+
+## 🧰 Tecnologias Utilizadas
+
+| Camada | Tecnologias |
+|--------|--------------|
+| **Frontend** | React, TypeScript, TailwindCSS |
+| **Backend** | Python (FastAPI) |
+| **Banco de Dados** | PostgreSQL / MongoDB |
+| **IA / NLP** | OpenAI API, HuggingFace Transformers |
+| **Autenticação** | JWT / OAuth 2.0 |
+| **Testes** | Jest / Pytest |
+| **Infraestrutura** | Docker, GitHub Actions, Render / Railway |
+
+---
+
+## 🚀 Instalação e Execução
+
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/larikelly/examforge.git
+cd examforge
+```
+
+## 👩‍💻 Equipe e Contatos
+
+| Nome | Função | Contato |
+|------|--------|----------|
+| **Larissa Kelly** | Analista de Requisitos, Documentação e QA | larissa.kelly@aluno.uece.com |
+| **Lyedson Silva** | Desenvolvimento | lyedsonsilva@aluno.uece.com |
+| **Marina Silva** | Design UX/UI e Desenvolvimento Front-end | marina@aluno.uece.com |
+| **José Fortunato** | Desenvolvimento Back-End | fortunato@aluno.uece.com |
+| **Gabriel Marques** | IA | gabrielmarques@aluno.uece.com |
+
+
+## 📜 Licença
+
+Este projeto está licenciado sob a MIT License.
+Você pode utilizar, modificar e distribuir livremente, desde que mantenha os créditos aos autores originais.
+Consulte o arquivo LICENSE
+ para mais informações.
