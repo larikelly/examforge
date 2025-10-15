@@ -11,7 +11,6 @@ Seu objetivo é agilizar e aprimorar o processo de avaliação, permitindo que p
 - [Arquitetura do Sistema](#-arquitetura-do-sistema)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Instalação e Execução](#-instalação-e-execução)
-- [Contribuição](#-contribuição)
 - [Equipe e Contatos](#-equipe-e-contatos)
 - [Licença](#-licença)
 
