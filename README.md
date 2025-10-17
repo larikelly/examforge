@@ -27,18 +27,9 @@ Ele é indicado para todos os usuários ou instituições que realizam avaliaç�
 ## ⚙️ Principais Funcionalidades
 
 ### 💬 Chat de Questões
-- Criação de provas por meio de uma interface conversacional.  
-- Sugestão automática de questões com base em temas e conteúdos informados.  
-- Geração de alternativas e explicações das respostas.  
-
 ### 🧩 Banco de Questões
-- Cadastro e categorização de questões por disciplina, tema e tipo.  
-- Filtros de busca e reutilização em novos exames.  
-
 ### 🧠 Geração de Exames
-- Criação automática de exames por critérios definidos no chat.  
-- Montagem manual ou automatizada.  
-- Tipos de questão: objetiva, discursiva ou mista.
+
 
 ---
 
@@ -63,7 +54,7 @@ examforge/
 |--------|--------------|
 | **Frontend** | React, TypeScript, TailwindCSS |
 | **Backend** | Python (FastAPI) |
-| **Banco de Dados** | PostgreSQL / MongoDB |
+| **Banco de Dados** | PostgreSQL |
 | **IA / NLP** | OpenAI API |
 | **Testes** | Jest / Pytest |
 | **Infraestrutura** | Docker, GitHub Actions, Render |
@@ -82,8 +73,8 @@ cd examforge
 
 | Nome | Função | Contato |
 |------|--------|----------|
-| **Larissa Kelly** | Analista de Requisitos, Documentação e QA | larissa.kelly@aluno.uece.com |
-| **Lyedson Silva** | Desenvolvimento | lyedsonsilva@aluno.uece.com |
+| **Larissa Kelly** | Analista de Requisitos, Design, Documentação e QA | larissa.kelly@aluno.uece.com |
+| **Lyedson Silva** | Desenvolvimento Back-end | lyedsonsilva@aluno.uece.com |
 | **Marina Silva** | Design UX/UI e Desenvolvimento Front-end | marina@aluno.uece.com |
 | **José Fortunato** | Desenvolvimento Back-End | fortunato@aluno.uece.com |
 | **Gabriel Marques** | IA | gabrielmarques@aluno.uece.com |
