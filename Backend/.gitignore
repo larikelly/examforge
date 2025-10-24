@@ -12,5 +12,6 @@ chroma_db/
 chroma/
 
 # Documentos
-Documentos/
+Documentos/*
+
 
